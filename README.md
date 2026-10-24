@@ -59,7 +59,7 @@ Get-FileHash .\Playbook-v0.4.1.zip -Algorithm SHA256
 
 The result should match the checksum on the release page.
 
-**Virus scan:** [VirusTotal results for v0.4.0](https://www.virustotal.com/gui/file/e0c3f025f1e9f4259e13e5460d7ce8ae62e1b084476628a75277fbc36fdad52a)
+**Virus scan:** [VirusTotal results for v0.4.1](https://www.virustotal.com/gui/file/94b957fcccd5a405c394e639cd7ebf4afb4d5fb1e01873530f6f5c364b3f1a97)
 
 ## Uninstall
 
